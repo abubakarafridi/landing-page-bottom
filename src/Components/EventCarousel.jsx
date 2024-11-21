@@ -1,12 +1,12 @@
 import React from 'react';
-import { Card, CardContent } from './ui/card';
+import { Card, CardContent } from './ui/Card';
 import {
   Carousel,
   CarouselContent,
   CarouselItem,
   CarouselNext,
   CarouselPrevious,
-} from './ui/carousel';
+} from './ui/Carousel';
 
 const EventCarousel = () => {
   return (
